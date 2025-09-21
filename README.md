@@ -80,5 +80,5 @@ This will produce `MyMod_P.pak`. Copy this file to the game's `Paks` directory.
 ## License and credits
 
 MeshAibRemover is licensed under Apache License 2.0. It uses the third-party library CUE4Parse, which is also
-licensed under Apache License 2.0. Many thanks to the CUE4Parse for figuring out the asset serialization tweaks
-specific to these games.
+licensed under Apache License 2.0. Many thanks to the CUE4Parse devs for figuring out the asset serialization
+tweaks specific to these games.
