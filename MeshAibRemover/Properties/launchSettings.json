@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StaticMeshAibRemover": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\user\\Documents\\Unreal Projects\\Gameface\\Saved\\Cooked\\WindowsNoEditor\\Gameface\\Content\\SanAndreas\\Environment\\INT\\SM_int2vase.uasset\""
+    }
+  }
+}
