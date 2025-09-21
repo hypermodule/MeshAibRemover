@@ -75,7 +75,7 @@ repak pack MyMod_P
 
 This will produce `MyMod_P.pak`. Copy this file to the game's `Paks` directory.
 
-![example](/example.jpg)
+![preview](/preview.jpg)
 
 ## License and credits
 
